@@ -5,4 +5,4 @@ Sublime Text 2 Themes (textmate) created by Dayle Rees
 
 modified by Shawn McCool
 
-![FreshCut Screenshot](ShawnMcCool_FreshCut.jpg)
+Screenshot Included
