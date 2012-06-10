@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2F3030</string>
+				<string>#131313</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#424C57</string>
 				<key>selection</key>
-				<string>#161A1F</string>
+				<string>#424c57</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
@@ -108,7 +108,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 			</dict>
 		</dict>
 		<dict>
@@ -130,7 +130,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#00A8C6</string>
 			</dict>
@@ -182,7 +182,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#AEE239</string>
 			</dict>
@@ -208,7 +208,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#00A8C6</string>
 			</dict>
@@ -221,7 +221,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#4ECDC4</string>
 			</dict>
@@ -234,7 +234,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#4ECDC4</string>
 			</dict>
@@ -247,7 +247,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#4ECDC4</string>
 			</dict>
@@ -273,7 +273,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 			</dict>
 		</dict>
 		<dict>
@@ -286,7 +286,7 @@
 				<key>background</key>
 				<string>#00A8C6</string>
 				<key>fontStyle</key>
-				<string></string>
+				<string/>
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
