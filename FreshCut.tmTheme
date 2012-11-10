@@ -104,11 +104,13 @@
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable.language, variable.other</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string/>
+				<key>foreground</key>
+				<string>#D0FFF2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -308,7 +310,7 @@
 			<key>name</key>
 			<string>JSON String</string>
 			<key>scope</key>
-			<string>meta.structure.dictionary.json string.quoted.double.json</string>
+			<string>meta.structure.dictionary.json, string.quoted.double.json</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
